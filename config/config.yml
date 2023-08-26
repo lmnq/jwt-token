@@ -1,0 +1,4 @@
+http:
+  port: "PORT"
+mongodb:
+  uri: "URI"
